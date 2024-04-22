@@ -148,7 +148,7 @@ section {
 /*Home Section*/
 .home {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-homebg.jpg) no-repeat;
+    url(aquavoyages-homebg.jpg") no-repeat;
 
   background-position: center;
   background-attachment: fixed;
@@ -204,7 +204,7 @@ section {
 
 .about {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-aboutbg.jpg) no-repeat;
+    url("aquavoyages-aboutbg.jpg") no-repeat;
 
   background-position: center;
   background-attachment: fixed;
@@ -217,7 +217,7 @@ section {
   justify-content: center;
   border-radius: 0.5rem;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-aboutbg2.jpg) no-repeat;
+    url("aquavoyages-aboutbg2.jpg") no-repeat;
 
   background-position: center;
   background-attachment: fixed;
@@ -298,7 +298,7 @@ section {
 /*Reviews Section*/
 .reviews {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-reviewbg.jpg) no-repeat;
+    url("aquavoyages-reviewbg.jpg") no-repeat;
 
   background-position: center;
   background-attachment: fixed;
@@ -356,7 +356,7 @@ section {
 /*Tours Section*/
 .tours {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-toursbg.jpg) no-repeat;
+    url("aquavoyages-toursbg.jpg") no-repeat;
 
   background-position: center;
   background-attachment: fixed;
@@ -440,7 +440,7 @@ section {
 /*Destinations Section*/
 .destinations {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-desbg.jpg) no-repeat;
+    url("aquavoyages-desbg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -503,7 +503,7 @@ section {
 /*Contact Section*/
 .contact {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)),
-    url(/assets/aquavoyages-contactbg.jpg) no-repeat;
+    url("aquavoyages-contactbg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
